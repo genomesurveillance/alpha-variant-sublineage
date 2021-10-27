@@ -1,0 +1,66 @@
+strain	date	clade_membership	country	division	division_exposure	gisaid_epi_isl	host	pangolin_lineage	region	region_exposure	subclade_membership
+hCoV-19/Germany/SN-RKI-I-026076/2021	2021-02-10	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_1156261	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-170306/2021	2021-05-12	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2470596	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-170231/2021	2021-05-12	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2470536	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-143715/2021	2021-04-24	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2128520	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/RP-RKI-I-134838/2021	2021-05-01	20I/501Y.V1	Germany	Rhineland-Palatinate	Rhineland-Palatinate	EPI_ISL_2117007	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/BW-RKI-I-170553/2021	2021-05-28	20I/501Y.V1	Germany	Baden-Wurttemberg	Baden-Wurttemberg	EPI_ISL_2470804	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-033045/2021	2021-02-23	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_1217286	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-033089/2021	2021-02-22	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_1217330	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-038696/2021	2021-03-08	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_1285057	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/ST-MD2946/2021	2021-04-22	20I/501Y.V1	Germany	Saxony-Anhalt	Saxony-Anhalt	EPI_ISL_1941185	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/ST-MD3113/2021	2021-04-26	20I/501Y.V1	Germany	Saxony-Anhalt	Saxony-Anhalt	EPI_ISL_1941331	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/ST-MD3610/2021	2021-05-10	20I/501Y.V1	Germany	Saxony-Anhalt	Saxony-Anhalt	EPI_ISL_2285567	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/ST-MD3724/2021	2021-05-14	20I/501Y.V1	Germany	Saxony-Anhalt	Saxony-Anhalt	EPI_ISL_2285643	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/NW-RKI-I-088554/2021	2021-04-07	20I/501Y.V1	Germany	North Rhine-Westphalia	North Rhine-Westphalia	EPI_ISL_1725078	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/NW-RKI-I-107429/2021	2021-04-13	20I/501Y.V1	Germany	North Rhine-Westphalia	North Rhine-Westphalia	EPI_ISL_1851194	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-172589/2021	2021-05-31	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2471882	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-172590/2021	2021-05-31	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2471883	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-129243/2021	2021-04-20	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2112483	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/NW-HHU-4975/2021	2021-04-14	20I/501Y.V1	Germany	North Rhine-Westphalia	North Rhine-Westphalia	EPI_ISL_1991896	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/NW-HHU-4974/2021	2021-04-14	20I/501Y.V1	Germany	North Rhine-Westphalia	North Rhine-Westphalia	EPI_ISL_1991895	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/ST-MD3095/2021	2021-04-26	20I/501Y.V1	Germany	Saxony-Anhalt	Saxony-Anhalt	EPI_ISL_1941313	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/ST-MD3094/2021	2021-04-26	20I/501Y.V1	Germany	Saxony-Anhalt	Saxony-Anhalt	EPI_ISL_1941312	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-167818/2021	2021-05-25	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2390357	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-178043/2021	2021-06-07	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2634744	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-033081/2021	2021-02-24	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_1217322	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/BB-RKI-I-179301/2021	2021-05-10	20I/501Y.V1	Germany	Brandenburg	Brandenburg	EPI_ISL_2635970	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/BY-MVP-000005812/2021	2021-04-26	20I/501Y.V1	Germany	Bavaria	Bavaria	EPI_ISL_2095291	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-038744/2021	2021-03-08	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_1285105	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/NW-RKI-I-127831/2021	2021-04-13	20I/501Y.V1	Germany	North Rhine-Westphalia	North Rhine-Westphalia	EPI_ISL_2111448	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-143722/2021	2021-04-24	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2128531	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-159798/2021	2021-05-05	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2314976	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/ST-MD3126/2021	2021-04-28	20I/501Y.V1	Germany	Saxony-Anhalt	Saxony-Anhalt	EPI_ISL_1941343	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-181321/2021	2021-06-14	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2678454	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/ST-RKI-I-155550/2021	2021-05-05	20I/501Y.V1	Germany	Saxony-Anhalt	Saxony-Anhalt	EPI_ISL_2266086	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-158533/2021	2021-05-17	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2313907	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-181338/2021	2021-06-14	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2678471	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-167768/2021	2021-05-25	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2390319	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-158546/2021	2021-05-17	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2313917	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/ST-RKI-I-171356/2021	2021-05-17	20I/501Y.V1	Germany	Saxony-Anhalt	Saxony-Anhalt	EPI_ISL_2471177	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/ST-RKI-I-158522/2021	2021-05-07	20I/501Y.V1	Germany	Saxony-Anhalt	Saxony-Anhalt	EPI_ISL_2313896	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-150795/2021	2021-05-10	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2262388	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-178045/2021	2021-06-07	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2634750	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-158565/2021	2021-05-17	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2313932	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-168221/2021	2021-05-21	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2390447	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-168225/2021	2021-05-18	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2390451	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-150778/2021	2021-05-10	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2262374	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/NW-RKI-I-144993/2021	2021-04-27	20I/501Y.V1	Germany	North Rhine-Westphalia	North Rhine-Westphalia	EPI_ISL_2129279	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-162326/2021	2021-05-12	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2386291	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-178053/2021	2021-06-07	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2634772	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-124541/2021	2021-04-26	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2109412	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/BY-IMB17805/2021	2021-05-17	20I/501Y.V1	Germany	Bavaria	Bavaria	EPI_ISL_2536139	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/BY-IMB17806/2021	2021-05-17	20I/501Y.V1	Germany	Bavaria	Bavaria	EPI_ISL_2536140	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-172572/2021	2021-05-31	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2471870	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-084843/2021	2021-04-06	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_1722090	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-101986/2021	2021-04-17	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_1847374	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/ST-RKI-I-155546/2021	2021-05-05	20I/501Y.V1	Germany	Saxony-Anhalt	Saxony-Anhalt	EPI_ISL_2266082	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-158530/2021	2021-05-17	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2313904	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-138137/2021	2021-05-03	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2122954	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-181329/2021	2021-06-14	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2678462	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-178041/2021	2021-06-07	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2634740	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-178055/2021	2021-06-07	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2634777	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-172566/2021	2021-05-31	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2471865	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-173542/2021	2021-05-26	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2472642	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-172557/2021	2021-05-31	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2471858	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
+hCoV-19/Germany/SN-RKI-I-178039/2021	2021-06-07	20I/501Y.V1	Germany	Saxony	Saxony	EPI_ISL_2634736	Human	B.1.1.7	Europe	Europe	20I/501Y.V1
